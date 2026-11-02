@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Power-Mean Error Budgets for a Circuit-Level Repetition-Code Memory"
+type: software
+version: 0.1.0
+date-released: 2026-11-02
+license: MIT
+repository-code: "https://github.com/pradeepdegalaroyal/power-mean-error-budget-repetition-code-memory"
+authors:
+  - family-names: Degala
+    given-names: Chenchupradeep
+abstract: "Simulation study of how to combine single-source logical error rates into a total error budget for a repetition-code memory with gate, readout and idle noise."
+keywords:
+  - quantum error correction
+  - error budget
+  - repetition code
+  - matching decoder
